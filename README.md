@@ -43,4 +43,6 @@ go run main.go
 
 ### 📌 Demonstrativo
 
-<video controls src="https://raw.githubusercontent.com/Llocus/pricefinder/refs/heads/main/example/pricefinder.mp4" title="Price Finder"></video>
+Veja o video:
+
+[![Vídeo Vimeo](https://i.vimeocdn.com/video/2013239308-c8218e11fed91f2b63f17514c73c60f213ea52e37e8f8aebb3a673f6654757e6-d?mw=1900&mh=664)](https://vimeo.com/1082284249)
